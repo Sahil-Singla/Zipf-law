@@ -1,5 +1,5 @@
 # Zipf-law
-Processing an HTML text corpus:
+Processing an HTML text corpus::
 Steps performed:
 1) Getting text from <a> tags.
 2) Stemming
